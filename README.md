@@ -5,7 +5,7 @@
 - <b>Security Onion, Zeek, and Suricata</b>
   - [Evaluating the Efficacy of Suricata and Zeek in Ethical Hacking](https://github.com/JordanS89/Evaluating-the-Efficacy-of-Suricata-and-Zeek-in-Ethical-Hacking)
 - <b>AWS and Microsoft Azure</b>
-  - [Comparing AWS and Azure for Threat Detection in Cloud Environments](https://github.com/JordanS89/Automated-Intrusion-Detection-in-Containerized-Environments/blob/main/README.md) <b></b>
+  - [Comparing AWS and Azure for Threat Detection in Cloud Environments](https://github.com/JordanS89/Comparing-AWS-and-Azure-for-Threat-Detection-in-Cloud-Environments/tree/main) <b></b>
 - <b>Splunk, Suricata, Zeek, and Snort</b>
   - [Automated Intrusion Detection in Containerized Environments](https://github.com/JordanS89/Automated-Intrusion-Detection-in-Containerized-Environments/blob/main/README.md)
 - <b>LLM Lab</b>
