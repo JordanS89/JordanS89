@@ -11,12 +11,10 @@
 - <b>LLM Lab</b>
   - [Ethical Safeguards and Vulnerabilities in Large Language Models)](https://github.com/joshmadakor1/EncrypterPOC)
 
-
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jordan Stuckey | LinkedIn" width="35px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jordan-stuckey-9320a920a/
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
