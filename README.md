@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jordan! <br/><a href="https://github.com/JordanS89">Aspiring IT Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Graduate Assistant</a></h1>
+<h1>Hi, I'm Jordan! <br/><a href="https://github.com/JordanS89">Aspiring IT Professional</a>, <a href="www.linkedin.com/in/jordan-stuckey89">Graduate Assistant</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
