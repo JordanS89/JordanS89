@@ -7,9 +7,9 @@
 - <b>AWS and Microsoft Azure</b>
   - [Comparing AWS and Azure for Threat Detection in Cloud Environments](https://github.com/JordanS89/Comparing-AWS-and-Azure-for-Threat-Detection-in-Cloud-Environments/tree/main) <b></b>
 - <b>Splunk, Suricata, Zeek, and Snort</b>
-  - [Automated Intrusion Detection in Containerized Environments](https://github.com/JordanS89/Automated-Intrusion-Detection-in-Containerized-Environments/blob/main/README.md)
+  - [Automated Intrusion Detection in Containerized Environments(IN PROGRESS)](https://github.com/JordanS89/Automated-Intrusion-Detection-in-Containerized-Environments/blob/main/README.md)
 - <b>LLM Lab</b>
-  - [Ethical Safeguards and Vulnerabilities in Large Language Models(In progress))](https://github.com/JordanS89/Ethical-Safeguards-and-Vulnerabilities-in-Large-Language-Models/blob/main/README.md)
+  - [Ethical Safeguards and Vulnerabilities in Large Language Models(IN PROGRESS))](https://github.com/JordanS89/Ethical-Safeguards-and-Vulnerabilities-in-Large-Language-Models/blob/main/README.md)
 
 [<img align="left" alt="Jordan Stuckey | LinkedIn" width="35px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
 
